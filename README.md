@@ -1,8 +1,8 @@
 ## Sou Larissa Medeiros
 
 - 🔭 Eu estou trabalhando com análise de dados
-- 🌱 Estudando Node.Js, Flutter e Sql Server
-- 🤔 Estou procurando ajuda com Node.Js
+- 🌱 Estudando Pyhton, C# e Sql Server
+- 🤔 Estou procurando ajuda com Flutter
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lary-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
