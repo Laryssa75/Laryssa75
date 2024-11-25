@@ -1,7 +1,7 @@
 ## Sou Larissa Medeiros
 
-- 🔭 Eu estou trabalhando com análise de dados
-- 🌱 Estudando Pyhton, C# e Sql Server
+- 🔭 Eu estou trabalhando com análise de dados e BI
+- 🌱 Estudando Pyhton, C# e Oracle
 - 🤔 Estou procurando ajuda com Python
 
 <div style="display: inline_block"><br>
