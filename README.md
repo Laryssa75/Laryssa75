@@ -1,6 +1,6 @@
 ## Sou Larissa Medeiros
 
-- 🔭 Eu estou trabalhando com análise de dados e BI
+- 🔭 Eu estou trabalhando com análise de dados, BI e desenvolvimento Django
 - 🌱 Estudando Pyhton, C# e Oracle
 - 🤔 Estou procurando ajuda com Python
 
@@ -15,7 +15,6 @@
   <img align="center" alt="Lary-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" /> 
   <img align="center" alt="Lary-Photshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
   <img align="center" alt="Lary-Ilustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />
-  <img align="center" alt="Lary-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
   <img align="center" alt="Lary-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg" />
   
 </div>
