@@ -1,7 +1,7 @@
 ## Sou Larissa Medeiros
 
 - 🔭 Eu estou trabalhando com análise de dados, BI e desenvolvimento Django
-- 🌱 Estudando Pyhton, C# e Oracle
+- 🌱 Estudando Python, C# e Oracle
 - 🤔 Estou procurando ajuda com Python
 
 <div style="display: inline_block"><br>
